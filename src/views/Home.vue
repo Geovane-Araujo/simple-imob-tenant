@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    Geovane
+    Geovane Araújo
   </div>
 </template>
 
